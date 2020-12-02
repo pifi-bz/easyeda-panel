@@ -18,3 +18,4 @@ Run it from the parent directory of the two directries with the Gerbers in.  It'
 
 Zip the whole output directory, and you've your Gerber/drill files ready to upload.
 
+YMMV.  Please check the outputs before submitting, as we'll not be responsible for any loss as a result of using this tool.
