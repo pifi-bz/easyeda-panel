@@ -16,6 +16,6 @@ Update panel.py to reflect the names of your directories, the number of repeats 
 
 Run it from the parent directory of the two directries with the Gerbers in.  It'll create a third directory, 'output' (you can change this as well s'il vous fait plaisir), and will create the required Gerber and Excellon files in it.  They'll have the same names as the originals, making it easy enough to sort out which is which.
 
-Zip the whole output directory, and you've your Gerber/drill files ready to upload.
+Zip the whole output directory (you migth need to use 'best' compression to keep the resultant ZIP under JLCPCB's 10MB limit), and you've your Gerber/drill files ready to upload.
 
 YMMV.  Please check the outputs before submitting, as we'll not be responsible for any loss as a result of using this tool.
